@@ -2,9 +2,6 @@
 
 This project demonstrates a Li-Fi (Light Fidelity) based door lock system using an Arduino. The system uses a laser and a Light Dependent Resistor (LDR) to transmit and receive signals. The door lock opens when a specific input is received and verified.
 
-## Institution
-
-- B.E. EXTC, Xavier Institute of Engineering, Mahim, Mumbai
 
 ## Components Used
 
