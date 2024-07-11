@@ -1,6 +1,7 @@
 //Li-Fi Door Lock
 //Parth Chande 
-
+//Sharayu Chavan
+//Rahul Panda
 
 // Pin number for the laser module
 const int laserPin = D1;
